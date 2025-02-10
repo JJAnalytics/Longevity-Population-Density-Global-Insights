@@ -25,6 +25,8 @@ Sourced from the SQL community, this database offers detailed information on cou
 
 ## Additional Screenshots
 - Population Density Calculation.
+  ![image](https://github.com/user-attachments/assets/1040114d-2b8f-463f-b209-79d5405efa26)
+
 - Life expectancy & population density.
 - Inner join table.
 - Relationship between tables.
