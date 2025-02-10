@@ -6,4 +6,26 @@ Sourced from the SQL community, this database offers detailed information on cou
 ## Dataset
 <a href="https://github.com/JJAnalytics/Longevity-Population-Density-Global-Insights-/blob/main/sakila-data.sql">The SQL data set.</a>
 
-<a href="">The CSV files exported.</a> 
+<a href="https://github.com/JJAnalytics/Longevity-Population-Density-Global-Insights-/blob/main/Extracted%20Tables.xlsx">The CSV files exported.</a> 
+
+
+## Questions (KPIs)
+-	Life Expectancy vs. Population Density?
+-	Are countries with more bilingual or multilingual populations performing better in life expectancy?
+
+## Cleaning & Transformation
+-	The information was extracted using SQL
+-	Calculated Population Density.
+-	Created new Columns.
+-	Renamed Columns.
+-	Joined tables.
+-	Corrected data types.
+-	Removed Null values.
+-	Created a relationship between tables.
+
+## Additional Screenshots
+- Population Density Calculation.
+- Life expectancy & population density.
+- Inner join table.
+- Relationship between tables.
+
