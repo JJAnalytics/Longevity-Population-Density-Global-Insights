@@ -33,13 +33,16 @@ Sourced from the SQL community, this database offers detailed information on cou
 ![image](https://github.com/user-attachments/assets/c80fd37c-ec57-4dcf-ae15-0d221865d110)
 
 - Inner join table.  
+
 ![image](https://github.com/user-attachments/assets/0ebfeb53-b7af-4f98-b7f6-ecffe2e053c8)
 
 - Relationship between tables.
+
 ![image](https://github.com/user-attachments/assets/84472444-1752-43cf-9e33-3c188e5ac12a)
   
 
 ## Dashboard
+
 ![image](https://github.com/user-attachments/assets/a27571ab-776e-477b-83ed-00e8d52cb780)
 
 
