@@ -1,2 +1,4 @@
-# Longevity-Population-Density-Global-Insights-
-Longevity &amp; Population Density Global Insights is a data analysis project exploring the relationship between population density and life expectancy across countries. It uncovers insights into how factors like healthcare, economy, and social systems impact longevity, revealing that population density alone doesn't determine life expectancy. 
+## Overview
+Sourced from the SQL community, this database offers detailed information on countries and continents, including life expectancy, population, languages spoken, capitals, and surface area. My aim is to explore whether factors such as population density and multilingualism influence longevity and offer insights for researchers interested in global health.
+
+## Dataset
