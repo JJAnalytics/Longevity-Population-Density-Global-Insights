@@ -64,7 +64,7 @@ Sourced from the SQL community, this database offers detailed information on cou
 
 - Economic pressures like inflation or trade barriers can limit access to nutritious food, quality healthcare, and essential services.
 
-  Governments and organizations can promote sustainable agriculture and food security to ensure a steady supply of 
+  Governments and organisations can promote sustainable agriculture and food security to ensure a steady supply of 
   nutritious food, while encouraging local production to reduce reliance on imports.
 
 ## Summary
